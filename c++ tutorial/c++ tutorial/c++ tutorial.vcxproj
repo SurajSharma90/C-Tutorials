@@ -139,9 +139,17 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Tutorial17.cpp" />
     <ClCompile Include="Tutorial0.cpp" />
     <ClCompile Include="Tutorial1.cpp" />
     <ClCompile Include="Tutorial10.cpp" />
+    <ClCompile Include="Tutorial11.cpp" />
+    <ClCompile Include="Tutorial12.cpp" />
+    <ClCompile Include="Tutorial13.cpp" />
+    <ClCompile Include="Tutorial14.cpp" />
+    <ClCompile Include="Tutorial15.cpp" />
+    <ClCompile Include="Tutorial16.cpp" />
+    <ClCompile Include="Tutorial18.cpp" />
     <ClCompile Include="Tutorial2.cpp" />
     <ClCompile Include="Tutorial3.cpp" />
     <ClCompile Include="Tutorial4.cpp" />

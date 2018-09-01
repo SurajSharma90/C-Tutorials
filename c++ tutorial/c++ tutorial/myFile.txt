@@ -1,2 +1,12 @@
-THIS IS DATA
-HELLO THIS IS FROM A NEW LINE 2. 23
+Daniel Richards
+23
+A
+Somestreet 2
+Bob
+1.65
+Suraj "1337" Sharma
+28
+B
+Somestreet 12
+Noob
+1.75
