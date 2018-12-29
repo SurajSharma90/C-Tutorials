@@ -11,6 +11,9 @@ private:
 	const int value;
 	std::string color;
 
+	//Static variables
+	static int ID;
+
 public:
 	Dice(const int value = 6, const std::string color = "Black");
 	~Dice();
@@ -24,7 +27,7 @@ public:
 
 	//Functions
 	const int toss() const;
-
+	static int getStaticID();
 };
 
 //#endif

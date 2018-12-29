@@ -168,6 +168,8 @@
     <ClCompile Include="Tutorial31.cpp" />
     <ClCompile Include="Tutorial32.cpp" />
     <ClCompile Include="Tutorial33.cpp" />
+    <ClCompile Include="Tutorial34.cpp" />
+    <ClCompile Include="Tutorial35.cpp" />
     <ClCompile Include="Tutorial4.cpp" />
     <ClCompile Include="Tutorial5.cpp" />
     <ClCompile Include="Tutorial6.cpp" />
